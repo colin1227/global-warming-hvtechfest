@@ -1,0 +1,51 @@
+
+.home {
+  background-color: #87CEEB !important;
+}
+
+.home-head {
+  margin: 0 10% 0 0;
+  text-align: center;
+}
+
+.terminology-description {
+  display: block;
+  margin: 0 2.5% 0 0;
+}
+.relevant-terms {
+  margin: 2.5% auto 5% auto;
+}
+.term {
+  margin: 2.5% auto;
+  text-align: left;
+}
+
+.content {
+  margin: 0 10% 0 0;
+}
+
+.content-description {
+  display: block;
+  margin: 0 2.5% 0 0;
+}
+
+.videos {
+  display: block;
+}
+
+.video-block {
+  margin: 5% auto;
+}
+
+.resources {
+  margin: 10%;
+}
+
+.web-links {
+  display: flex;
+  flex-direction: column;
+}
+
+.space-taker-upper {
+  height: 100px;
+}
